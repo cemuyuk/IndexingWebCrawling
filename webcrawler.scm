@@ -14,7 +14,6 @@
 ;;; The following is defined so that the file loads without errors:
 (define your-answer-here -1)
   	  	     	 
-  	  	     	 
 ;;;;;;;::;;;:::::;:;:::::;;::::;:;:::;:;::;::;::;;::;:;;;:::;;:
 ;;; Warmup Exercise: Index Implementation
 ;;;  	  	     	 
