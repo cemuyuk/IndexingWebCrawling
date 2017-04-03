@@ -3,36 +3,7 @@
 ;;;;;;;::;;;:::::;:;:::::;;::::;:;:::;:;::;::;::;;::;:;;;:::;;;
 ;;;  	  	     	 
 ;;; cuyuk@ku.edu.tr    Mon Nov 17 09:38:53 2014
-;;;  	  	     	 
-;;; Before you start:  	  	     	 
-;;;  	  	     	 
-;;; * Please read the detailed instructions for this project from the
-;;; project description file available on the course website.
-;;;  	  	     	 
-;;; While you are working:  	  	     	 
-;;; * Type all your work and notes in the appropriate sections of this file.
-;;; * Please do not delete any of the existing lines.
-;;; * Use the procedure names given in the instructions.
-;;; * Remember to frequently save your file.
-;;; * Use semicolon (;) to comment out text, tests and unused code.
-;;; * Remember to document your code.
-;;; * Remember our collaboration policy: you can discuss with your friends but:
-;;;  	  	     	 
-;;;   *** NOTHING WRITTEN GETS EXCHANGED ***
-;;;  	  	     	 
-;;; When you are done:  	  	     	 
-;;;  	  	     	 
-;;; * Perform a final save and submit your work following the instructions.
-;;; * Please do not make any modifications after midnight on the due date.
-;;; * Please send an email comp200@ku.edu.tr if you have any questions.
-;;; * Make sure your file loads without errors:
-;;;  	  	     	 
-;;; *** IF LOADING GIVES ERRORS YOUR PROJECT WILL NOT BE GRADED ***
-;;;  	  	     	 
-;;; Before the definition of each procedure, please write a description
-;;; about what the procedure does and what its input and output should
-;;; be, making sure the lines are commented out with semi-colons.
-  	  	     	 
+;;;  	  	     	  	  	     	 
 ;;; Code for this project:  	  	     	 
 ;     * code files to read: search.scm
 ;     * code file simply to load: generate.scm, include.scm
